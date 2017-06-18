@@ -1,2 +1,3 @@
-# Pod-To-Man-Perl6
-convert Perl 6 pod to man format
+# Pod::To::Man
+
+Tools to convert Perl 6 pod to man format
